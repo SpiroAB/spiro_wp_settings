@@ -49,6 +49,6 @@ function set_superautomatic_defaults()
 	wp_delete_comment(1);
 
 	// empty blogroll
-	$wpdb->query("DELETE FROM $wpdb->links WHERE link_id != ''");
+	$wpdb->query("TRUNCATE {$wpdb->links}");
 }
 register_activation_hook(__FILE__, 'set_superautomatic_defaults');
