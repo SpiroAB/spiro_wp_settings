@@ -3,7 +3,7 @@
 Plugin Name: Spiro WP Settings
 Plugin URI:  https://spiro.se
 Description: Set some default settings to make a good base
-Version:     1.0
+Version:     1.0.1
 Author:      Jens Hellqvist
 Author URI:  http://superautomatic.com
 */

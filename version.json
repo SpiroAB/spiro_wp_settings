@@ -1,7 +1,7 @@
 {
   "name": "Spiro WP Settings",
   "slug": "Spiro-WP-Settings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jens Hellqvist <jens@spiro.se>",
   "description": "Set some default settings to make a good base",
   "requires": "4.9",
