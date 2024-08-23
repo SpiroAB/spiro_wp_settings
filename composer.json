@@ -3,7 +3,7 @@
   "description": "Wordpress pluing to set some default settings to make a good base",
   "type": "wordpress-plugin",
   "require": {
-    "composer/installers": "~1.0",
-    "SpiroAB/wp_version_tracker": "~1.0"
+    "composer/installers": "^1 || ^2",
+    "spiroab/wp_version_tracker": "~1.0"
   }
 }
